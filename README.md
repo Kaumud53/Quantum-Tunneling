@@ -21,10 +21,6 @@ Visualizes a **Gaussian wave packet** interacting with a potential barrier:
 
 ## 📊 Example Outputs
 
-### Transmission Coefficient Plots
-- ![Example](https://via.placeholder.com/400x250?text=Transmission+vs+Energy)
-- ![Example](https://via.placeholder.com/400x250?text=Transmission+vs+Width)
-
 ### Wave Packet Animation
 - Output: `wave.gif`  
   ![wave.gif](wave.gif)
